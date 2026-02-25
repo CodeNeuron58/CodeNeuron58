@@ -1,75 +1,55 @@
 <h1 align="center">Hi, I'm Biprayan Choudhuri 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Agentic Systems · RAG Pipelines · LLM Applications</b><br/>
-  B.S. AI & Data Science — IIT Guwahati<br/>
-  Open to Internships · Research · Collaborations
+  <b>AI/ML Developer | Agentic Systems | RAG Pipelines</b><br/>
+  <i>B.S. AI & Data Science — IIT Guwahati</i>
 </p>
 
 <p align="center">
-  📧 <a href="mailto:biprayanc@gmail.com">biprayanc@gmail.com</a> · 
-  🔗 <a href="https://www.linkedin.com/in/biprayanchoudhuri">LinkedIn</a>
+  <a href="mailto:biprayanc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/biprayanchoudhuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## About Me
+### 🧬 About Me
+I'm an AI/ML Developer passionate about building reliable and practical LLM systems. My focus is on moving beyond basic prompting by integrating structured logic, retrieval-augmented generation (RAG), and multi-agent coordination to create robust applications.
 
-I'm an AI/ML student focused on building reliable real-world LLM systems.  
-My interests include **agentic architectures**, **retrieval-augmented generation**, and **safe reasoning pipelines**.
-
-I enjoy designing systems that combine structured logic, retrieval, and validation rather than relying on single-prompt outputs.
-
-- 🔭 Currently built **RxGuard** — a local clinical AI assistant for medication safety  
-- 🧠 Exploring hallucination mitigation, multi-agent coordination, and evaluation systems  
-- 🤝 Interested in internships, research collaborations, and builder communities  
-- 📍 India  
+- 🔭 **Currently Building:** RxGuard — a local AI assistant exploring safer medication analysis workflows.
+- 🧠 **Interests:** Agentic architectures, hallucination mitigation, and evaluation frameworks.
+- 🤝 **Looking For:** AI/ML roles, research collaborations, and opportunities to contribute to experienced engineering teams.
+- 📍 **Location:** India
 
 ---
 
-## Featured Project
+### 🚀 Featured Project: [RxGuard](https://github.com/CodeNeuron58/RxGuard)
+*A local clinical decision-support assistant designed to improve reliability in LLM-assisted medication analysis.*
 
-### 🏥 RxGuard — Medication Safety Copilot
-
-Local clinical decision-support assistant designed to improve reliability in LLM-assisted medication analysis.
-
-**Stack**  
-LangGraph · Ollama · FAISS · Pydantic · Streamlit  
-
-**Highlights**
-- Graph-structured multi-node reasoning workflow  
-- Built-in verification stage for output validation  
-- Typed state transitions for deterministic execution  
-- Runs locally for privacy-sensitive environments  
-
-Repository → https://github.com/CodeNeuron58/RxGuard
+- **Focus:** Working to reduce LLM hallucinations in sensitive contexts by implementing structured verification stages.
+- **Approach:** Utilizes a graph-structured multi-node workflow with typed state transitions for more predictable execution.
+- **Stack:** `LangGraph` • `Ollama` • `FAISS` • `Pydantic` • `Streamlit`
 
 ---
 
-## Selected Projects
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,streamlit,docker,git" />
+</p>
 
+**Core Areas:** `LangChain` • `LangGraph` • `RAG` • `Agentic Workflows` • `Vector DBs`
+
+---
+
+### 📂 Selected Projects
 | Project | Description | Stack |
-|--------|-------------|------|
-| [LangGraph Blog Agent](https://github.com/CodeNeuron58/langgraph-blog-agent) | Multi-agent content generator with parallel drafting | LangGraph, Groq, Tavily |
-| [Video-RAG Analyst](https://github.com/CodeNeuron58/Video-RAG-Analyst) | Query video transcripts using semantic search | LangChain, FAISS, HF |
-| Sentiment Classifier | Improved noisy-text accuracy from 65% → 86% | sklearn, LightGBM |
+|:---|:---|:---|
+| [**LangGraph Blog Agent**](https://github.com/CodeNeuron58/langgraph-blog-agent) | Multi-agent content generator exploring parallel drafting | LangGraph, Groq, Tavily |
+| [**Video-RAG Analyst**](https://github.com/CodeNeuron58/Video-RAG-Analyst) | Query video transcripts using semantic search | LangChain, FAISS, HF |
+| **Sentiment Classifier** | Improved noisy-text accuracy from 65% to 86% | LightGBM, sklearn |
 
 ---
 
-## Tech Stack
-
-**Languages**  
-Python · SQL  
-
-**AI / ML**  
-PyTorch · scikit-learn · Transformers · LangChain · LangGraph · FAISS  
-
-**Tools**  
-FastAPI · Streamlit · Git · Docker · Ollama  
-
----
-
-## GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=CodeNeuron58&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=CodeNeuron58&theme=transparent&hide_border=true&stroke=00d1b2&ring=00d1b2&fire=00d1b2&currStreakLabel=00d1b2" height="160"/>
 </p>
