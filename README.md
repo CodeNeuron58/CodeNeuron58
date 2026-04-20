@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Biprayan Choudhuri 👋</h1>
+<h1 align="center">Hi, I'm Biprayan Choudhuri</h1>
 
 <p align="center">
   <b>AI/ML Developer | Agentic Systems | RAG Pipelines</b><br/>
@@ -6,23 +6,24 @@
 </p>
 
 <p align="center">
-  <a href="mailto:biprayanc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/biprayanchoudhuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:biprayanc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/biprayanchoudhuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://biprayan.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
-### 🧬 About Me
+### About Me
 I'm an AI/ML Developer passionate about building reliable and practical LLM systems. My focus is on moving beyond basic prompting by integrating structured logic, retrieval-augmented generation (RAG), and multi-agent coordination to create robust applications.
 
-- 🔭 **Currently Building:** RxGuard — a local AI assistant exploring safer medication analysis workflows.
-- 🧠 **Interests:** Agentic architectures, hallucination mitigation, and evaluation frameworks.
-- 🤝 **Looking For:** AI/ML roles, research collaborations, and opportunities to contribute to experienced engineering teams.
-- 📍 **Location:** India
+- **Currently Building:** RxGuard — a local AI assistant exploring safer medication analysis workflows.
+- **Interests:** Agentic architectures, hallucination mitigation, and evaluation frameworks.
+- **Looking For:** AI/ML roles, research collaborations, and opportunities to contribute to experienced engineering teams.
+- **Location:** India
 
 ---
 
-### 🚀 Featured Project: [RxGuard](https://github.com/CodeNeuron58/RxGuard)
+### Featured Project: [RxGuard](https://github.com/CodeNeuron58/RxGuard)
 *A local clinical decision-support assistant designed to improve reliability in LLM-assisted medication analysis.*
 
 - **Focus:** Working to reduce LLM hallucinations in sensitive contexts by implementing structured verification stages.
@@ -31,7 +32,7 @@ I'm an AI/ML Developer passionate about building reliable and practical LLM syst
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,streamlit,docker,git" />
 </p>
@@ -40,7 +41,7 @@ I'm an AI/ML Developer passionate about building reliable and practical LLM syst
 
 ---
 
-### 📂 Selected Projects
+### Selected Projects
 | Project | Description | Stack |
 |:---|:---|:---|
 | [**LangGraph Blog Agent**](https://github.com/CodeNeuron58/langgraph-blog-agent) | Multi-agent content generator exploring parallel drafting | LangGraph, Groq, Tavily |
@@ -49,7 +50,7 @@ I'm an AI/ML Developer passionate about building reliable and practical LLM syst
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=CodeNeuron58&theme=transparent&hide_border=true&stroke=00d1b2&ring=00d1b2&fire=00d1b2&currStreakLabel=00d1b2" height="160"/>
 </p>
